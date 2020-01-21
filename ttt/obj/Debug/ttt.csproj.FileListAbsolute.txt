@@ -1,0 +1,10 @@
+C:\hm\apka\ttt\ttt\bin\Debug\ttt.exe.config
+C:\hm\apka\ttt\ttt\bin\Debug\ttt.exe
+C:\hm\apka\ttt\ttt\bin\Debug\ttt.pdb
+C:\hm\apka\ttt\ttt\obj\Debug\ttt.csprojAssemblyReference.cache
+C:\hm\apka\ttt\ttt\obj\Debug\ttt.Form1.resources
+C:\hm\apka\ttt\ttt\obj\Debug\ttt.Properties.Resources.resources
+C:\hm\apka\ttt\ttt\obj\Debug\ttt.csproj.GenerateResource.cache
+C:\hm\apka\ttt\ttt\obj\Debug\ttt.csproj.CoreCompileInputs.cache
+C:\hm\apka\ttt\ttt\obj\Debug\ttt.exe
+C:\hm\apka\ttt\ttt\obj\Debug\ttt.pdb
